@@ -11,4 +11,4 @@ During the one-day competion, our team had implemented measurement of AC amplitu
 ## Demo
 Following is two pictures of our multimeter. 
 ![demo1](figures/demo1.jpg)
-![demo2](figures/demo2.jpg)
+![demo2](figures/demo2-copy.jpg)
