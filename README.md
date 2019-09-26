@@ -6,5 +6,9 @@ The competition task is on file 2018年北京交通大学大学生电子设计�
 
 ## Our result
 During the one-day competion, our team had implemented measurement of AC amplitude(full range as required), DC offset(part of the required range), frequency(the extended range). Our score ranked the third of all 50 teams(3/50) and thus won the first prize. 
-![certificate](figures/award certificate.jpg)
-![demo](figures/demo1.jpg)
+![certificate](figures/award-certificate.jpg)
+
+## Demo
+Following is two pictures of our multimeter. 
+![demo1](figures/demo1.jpg)
+![demo2](figures/demo2.jpg)
