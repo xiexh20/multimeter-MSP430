@@ -10,7 +10,7 @@ During the one-day competition, our team had implemented measurement of AC ampli
 <img src="figures/award-certificate.jpg" width="350">
 
 ## Demo
-Following is two pictures of our multimeter. 
+Two pictures of our multimeter are shown below:
 
 <img src="figures/demo1.jpg" width="200">
 <img src="figures/demo2-copy.jpg" width="200">
